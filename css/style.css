@@ -1091,7 +1091,7 @@ article .desc .tag {
     box-shadow: none; }
 
 .row-padded-bottom {
-  margin-top: 7em; }
+  margin-top: 2em; }
 
 .row-pb-md {
   margin-bottom: 3em; }
@@ -2018,4 +2018,7 @@ main {
 .showBtn {
   opacity: 1;
   transform: translateY(0);
+}
+.work-wrap {
+  margin-bottom: 8rem;
 }
