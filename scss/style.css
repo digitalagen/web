@@ -145,8 +145,8 @@ body {
 	position: relative;
 	cursor: pointer;
 	position: absolute;
-	top: 25px;
-	right: 40px;
+	top: 65rem;
+    right: 70rem;
 	z-index: 110;
 	border-radius: 50%;
 	background-color: #fff;
