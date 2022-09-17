@@ -628,6 +628,7 @@ header {
 
 .intro-heading {
   margin-bottom: 3em;
+  margin-top: 3rem;
   position: relative; }
   .intro-heading:after {
     position: absolute;
