@@ -146,7 +146,7 @@ body {
 	cursor: pointer;
 	position: absolute;
 	top: 65rem;
-    right: 70rem;
+    right: 68rem;
 	z-index: 110;
 	border-radius: 50%;
 	background-color: #fff;
@@ -1224,4 +1224,9 @@ body {
 	.portfolio-item.wide-tall {
 		width: 100%;
 	}
+}
+.click_here{
+	text-align: center;
+	color: #ffffff;
+	margin-top: 20rem;
 }
